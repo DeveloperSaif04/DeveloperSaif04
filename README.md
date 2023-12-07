@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @DeveloperSaif04
-- 👀 I’m interested in MERN web development
-
-- 💞️ I’m looking to collaborat
+- 👀 I’m interested in MERN web developmen
 
 <!---
 DeveloperSaif04/DeveloperSaif04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
